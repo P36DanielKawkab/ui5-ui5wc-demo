@@ -1,0 +1,7 @@
+# Note: Changes to this file also must be applied to the top level .eslintignore file.
+dist
+test
+src
+bundle.es5.js
+bundle.esm.js
+package-scripts.js 

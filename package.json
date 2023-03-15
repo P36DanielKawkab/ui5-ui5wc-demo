@@ -1,0 +1,23 @@
+{
+  "name": "ui5-ui5wc-demo",
+  "version": "1.0.0",
+  "description": "A demo project for displaying the usage of SAPUI5-Components in UI5 Webcomponents",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P36DanielKawkab/ui5-ui5wc-demo.git"
+  },
+  "keywords": [
+    "ui5",
+    "ui5wc",
+    "webcomponents"
+  ],
+  "author": "Daniel Kawkab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P36DanielKawkab/ui5-ui5wc-demo/issues"
+  },
+  "homepage": "https://github.com/P36DanielKawkab/ui5-ui5wc-demo#readme"
+}
